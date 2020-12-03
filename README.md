@@ -18,9 +18,9 @@ To run this program, change the hostIP to that of your local IPv4 address.
 
 ## Results
 # No Filter
-![Phone Orientation - No Filter](results/no filter raw data.gif)
+![Phone Orientation - No Filter](results/no_filter.gif)
 # Complementary Filter
-![Phone Orientation - Complementary Filter](results/comp_filter_gif.gif)
+![Phone Orientation - Complementary Filter](results/comp_filter.gif)
 
 ## License
 MIT 2020
