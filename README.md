@@ -16,5 +16,8 @@
 ## Usage
 To run this program, change the hostIP to that of your local IPv4 address - 
 
+## Results
+![Phone Orientation - Complementary Filter](comp_filter_gif.gif)
+
 ## License
 MIT 2020
