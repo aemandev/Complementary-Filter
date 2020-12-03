@@ -18,7 +18,7 @@ To run this program, change the hostIP to that of your local IPv4 address.
 
 ## Results
 # No Filter
-![Phone Orientation - No Filter](results/no filter raw data)
+![Phone Orientation - No Filter](results/no filter raw data.gif)
 # Complementary Filter
 ![Phone Orientation - Complementary Filter](results/comp_filter_gif.gif)
 
