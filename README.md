@@ -14,10 +14,13 @@
   
 
 ## Usage
-To run this program, change the hostIP to that of your local IPv4 address - 
+To run this program, change the hostIP to that of your local IPv4 address.
 
 ## Results
-![Phone Orientation - Complementary Filter](comp_filter_gif.gif)
+# No Filter
+![Phone Orientation - No Filter](results/no filter raw data)
+# Complementary Filter
+![Phone Orientation - Complementary Filter](results/comp_filter_gif.gif)
 
 ## License
 MIT 2020
